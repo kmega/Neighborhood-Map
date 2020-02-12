@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Neighborhood-Map/static/css/main.ed22cb4d.chunk.css",
+    "main.js": "/Neighborhood-Map/static/js/main.44e0d42e.chunk.js",
+    "main.js.map": "/Neighborhood-Map/static/js/main.44e0d42e.chunk.js.map",
+    "runtime-main.js": "/Neighborhood-Map/static/js/runtime-main.b22abcc8.js",
+    "runtime-main.js.map": "/Neighborhood-Map/static/js/runtime-main.b22abcc8.js.map",
+    "static/js/2.1afb6fd3.chunk.js": "/Neighborhood-Map/static/js/2.1afb6fd3.chunk.js",
+    "static/js/2.1afb6fd3.chunk.js.map": "/Neighborhood-Map/static/js/2.1afb6fd3.chunk.js.map",
+    "index.html": "/Neighborhood-Map/index.html",
+    "precache-manifest.299d45657875a6288c013039abaaa627.js": "/Neighborhood-Map/precache-manifest.299d45657875a6288c013039abaaa627.js",
+    "service-worker.js": "/Neighborhood-Map/service-worker.js",
+    "static/css/main.ed22cb4d.chunk.css.map": "/Neighborhood-Map/static/css/main.ed22cb4d.chunk.css.map",
+    "static/js/2.1afb6fd3.chunk.js.LICENSE.txt": "/Neighborhood-Map/static/js/2.1afb6fd3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b22abcc8.js",
+    "static/js/2.1afb6fd3.chunk.js",
+    "static/css/main.ed22cb4d.chunk.css",
+    "static/js/main.44e0d42e.chunk.js"
+  ]
+}
